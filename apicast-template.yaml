@@ -14,7 +14,7 @@ objects:
   metadata:
     name: apicast-config
   stringData:
-    password: https://${ACCESS_TOKEN}@${TENANT}-admin.3scale.net/
+    password: https://${ACCESS_TOKEN}@${TENANT}-admin.3scale1.com.10.19.137.80.nip.io/
   type: Opaque
 - apiVersion: v1
   kind: DeploymentConfig
