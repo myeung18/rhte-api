@@ -63,7 +63,7 @@ objects:
           value: ${MICROCKS_TEST_ENDPOINT}
 parameters:
 - name: GIT_REPO
-  value: https://github.com/nmasse-itix/rhte-api.git
+  value: https://github.com/myeung18/rhte-api.git
   required: true
 - name: GIT_BRANCH
   value: master
